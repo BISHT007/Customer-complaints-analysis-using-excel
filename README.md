@@ -27,8 +27,9 @@ Dataset of the customers complaint with their state information is given. We hav
 </details>
 
 ### **```State code name```**
---This is a JSON file containing state name and respective code
 <details>
+--This is a JSON file containing state name and respective code
+</details>
 
 ## 🧙‍♂️ Case Study Questions
 <p align="center">
