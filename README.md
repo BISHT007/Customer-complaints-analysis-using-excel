@@ -6,7 +6,7 @@
   - 🧙‍♂️ [Case Study Questions](#case-study-questions)
 
 ## 🛠️ Problem Statement
-Dataset of the customers complaint with their state information is given. We have to clean the data and perform exploratory data analysis on the data. We have to suggest the inferences and derive various KPIs. At the end, An interactive dashboard have to be created for the convienet understanding of the analysis with the data driven insights. 
+Dataset of the customers complaint with their state information is given. We have to clean the data and perform exploratory data analysis on the data. We have to suggest the inferences and derive various KPIs. At the end, An interactive dashboard have to be created for the convinent understanding of the analysis with the data driven insights. 
 
 ## 📂 Dataset
 
